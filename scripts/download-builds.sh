@@ -19,8 +19,8 @@ linux_name='ffmpeg-linux-x64'
 linux_temp="/tmp/$linux_name"
 linux_archive="$linux_name.tar.gz"
 
-win32_url='https://www.gyan.dev/ffmpeg/builds/ffmpeg-release-full.7z'
-win32_temp_archive='/tmp/ffmpeg-release-full.7z'
+win32_url='https://www.gyan.dev/ffmpeg/builds/ffmpeg-release-full-shared.7z'
+win32_temp_archive='/tmp/ffmpeg-release-full-shared.7z'
 win32_name='ffmpeg-win32-x64'
 win32_temp="/tmp/$win32_name"
 win32_archive="$win32_name.tar.gz"
