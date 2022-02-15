@@ -1,4 +1,4 @@
-name: Setup FFmpeg
+name: Setup FFmpeg Shared For Windows
 description: Setup FFmpeg in GitHub Actions
 
 inputs:
